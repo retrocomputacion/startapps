@@ -8,10 +8,6 @@ Jorge Castillo & Pablo Roldán
 
 
 ---
-</div>
-
----
-<div>
 
 ## Introduction
 

@@ -9,6 +9,7 @@ Jorge Castillo & Pablo Roldán
 
 ---
 </div>
+
 ## Introduction
 
 *Start Apps* is a 32K cartridge for Commodore 128 that can contain a set of programs for C64 and C128 modes. The core of the project is an application launcher, to which executable programs in PRG format must be added to obtain the cartridge binary. It is designed to activate when starting the Commodore 128, displaying a startup logo, and then a menu that allows you to launch applications, enter BASIC 7.0 or go to C64 mode. It can be overridden by booting the system with the SHIFT key pressed.
